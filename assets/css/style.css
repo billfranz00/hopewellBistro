@@ -74,7 +74,7 @@ section {
     /*STYLE FOR OVERLAY CLASS - WHICH IS ABOVE IMAGE WITH OPACITY/TRANSPARENCY 0.75*/
     #home .overlay {
         padding-top: 90px;
-        background-color: rgba(35, 133, 161,0.75); /*.75 opacity of the color so that background image is visible*/
+        background-color: rgba(35, 133, 161,0.50); /*.75 opacity of the color so that background image is visible*/
         min-height: 600px;
         color: #fff;
     }
@@ -108,7 +108,7 @@ section {
 
     .parallax-like .overlay {
         min-height: 200px;
-        background: rgba(35, 133, 161,0.9);
+        background: rgba(35, 133, 161,0.75);
         font-size: 40px;
         padding-bottom: 60px;
         padding-top: 60px;
